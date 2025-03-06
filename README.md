@@ -17,10 +17,15 @@
 
 ## 🌟 Proyectos Destacados
 🔹 [Gestor de Librería](https://github.com/AntonioGBGV/LibreriasAPI) - Aplicación desarrollada con Spring Boot y MySQL para gestión de Librerias.
+
 🔹 [Gestor de empleados](https://github.com/AntonioGBGV/Empleados_Tkinter) - Aplicación Python con Tkinter y SQLite. Exportación de datos a fichero txt. Permite la gestión de empleados.
+
 🔹 [Unity - First Person Shooter](https://github.com/AntonioGBGV/FPS) - Aplicación desarrollada en  C# con Unity.
+
 🔹 [Consumiendo API con Retrofit](https://github.com/AntonioGBGV/MyAppProducts) - Aplicación desarrollada en Kotlin para consumir API con Retrofit.
+
 🔹 [Gestor clases](https://github.com/AntonioGBGV/MongoAlumnoProfesor) - Aplicación desarrollada en Java con BBDD Mongo para la gestión de clases.
+
 
 ## 📫 Contacto
 📧 [a.garijo.blanco@gmail.com](mailto:a.garijo.blanco@gmail.com)  
