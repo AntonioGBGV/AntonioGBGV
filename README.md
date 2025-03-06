@@ -1,4 +1,4 @@
-# ¡Hola! Soy Antonio Garijo Blanco 👋
+# ¡Hola! Soy Antonio Garijo Blanco
 
 🎯 **Desarrollador de Aplicaciones Multiplataforma** con experiencia en gestión de proyectos y soporte técnico.  
 📚 Actualmente cursando **Grado Superior en DAM** en UNIR.  
